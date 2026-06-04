@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Y. Gnana Pavani</h1>
+<h3 align="center">UI/UX Designer | Web Developer | MCA Student</h3>
 
-<!--
-**pavani2406/pavani2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 MCA Student
+- 💻 UI/UX Designer and Web Developer
+- 🌱 Learning Full Stack Development
+- 📊 Interested in Data Analytics
+- 🚀 Looking for Software Engineer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+HTML | CSS | JavaScript | Python | SQL | Power BI | Figma | Git | GitHub | claude | machinelearing
+
+## 🚀 Projects
+
+### Wine Quality Prediction
+Machine Learning project for wine quality prediction.
+
+### Reliance Stock Dashboard
+Power BI Dashboard.
+
+### Wedding Hall Toto
+.NET and C# Web Application.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/y-pavani-319a9624b)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yg.pavani2004@gmail.com)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)

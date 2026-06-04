@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Y. Gnana Pavani</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Y. Gnana Pavani
+</h1>
 <h3 align="center">UI/UX Designer | Web Developer | MCA Student</h3>
 
 ## 👩‍💻 About Me

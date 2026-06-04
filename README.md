@@ -39,6 +39,9 @@ Redesigned the Boro Construction website with improved UI, navigation, and mobil
 ### Analog Clock
 Real-time analog clock built using HTML, CSS, and JavaScript.
 
+### AttendEase – Smart Attendance Management System
+Built and deployed AttendEase, a responsive attendance management application using Google AI Studio, featuring swipe-based attendance tracking and seamless desktop, tablet, and mobile experiences.
+
 
 ## 📫 Connect With Me
 

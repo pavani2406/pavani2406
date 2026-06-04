@@ -18,11 +18,27 @@ HTML | CSS | JavaScript | Python | SQL | Power BI | Figma | Git | GitHub | claud
 ### Wine Quality Prediction
 Machine Learning project for wine quality prediction.
 
-### Reliance Stock Dashboard
-Power BI Dashboard.
+### Reliance Stock Dashboard Design - UI/UX
+UIUX Design- dashboard designing
 
 ### Wedding Hall Toto
 .NET and C# Web Application.
+
+### Blinkit Sales Dashboard
+Interactive Power BI dashboard for analyzing sales trends, revenue, and customer insights.
+
+### Drowsiness Detection System
+Deep learning-based system that detects driver fatigue in real time using facial and eye movement analysis.
+
+### SmartStudy eLearning App
+UI/UX design of an eLearning mobile application with courses, quizzes, and note-taking features.
+
+### Responsive Landing Page
+Redesigned the Boro Construction website with improved UI, navigation, and mobile responsiveness.
+
+### Analog Clock
+Real-time analog clock built using HTML, CSS, and JavaScript.
+
 
 ## 📫 Connect With Me
 
